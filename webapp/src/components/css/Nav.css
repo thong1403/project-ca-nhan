@@ -1,0 +1,48 @@
+
+.nav-top{
+
+    width: 100%;
+    border-bottom: 2px solid #E3DDBB;
+    padding: 1%;
+    background-color: #F6F3E4;
+    color: gray;
+}
+.title-product{
+    margin: 1%;
+   padding-bottom: 2%;
+   
+    
+}
+.title-product:hover{
+    border-bottom: 3px solid black;
+    color: black;
+}
+.container-title{
+    width: 100%;
+   
+   
+}
+#login{
+    font-size: 20px;
+    margin: 1%;
+
+    border-radius: 100px;
+    background-color: #F6F3E4;
+    border: 1px solid #F6F3E4;
+    color: gray;
+}
+#login:hover{
+    color: black;
+}
+#register{
+    font-size: 20px;
+    margin: 1%;
+  
+    border-radius: 100px;
+    background-color: #F6F3E4;
+    border: 1px solid #F6F3E4;
+    color: gray;
+}
+#register:hover{
+    color: black;
+}

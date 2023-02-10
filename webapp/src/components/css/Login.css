@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login-form{
+    width: 500px;
+    margin: auto;
+    margin-top: 10%;
+}
+.title-store{
+    margin-bottom: 10%;
+}
